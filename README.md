@@ -34,23 +34,23 @@ During the initial setup, I encountered a few hurdles and successfully resolved 
 
 
 
-
-
-
-
-
-
-
-
-
-
 <img width="626" height="510" alt="installation error" src="https://github.com/user-attachments/assets/6fb32ed5-a8cc-45ad-afb1-53bd18f9a17e" />
+
 <img width="647" height="502" alt="Screenshot 2026-10-28 125831" src="https://github.com/user-attachments/assets/0b2c3529-30a2-4241-9332-6254e49ff3b0" />
+
 <img width="726" height="572" alt="Screenshot 2026-10-28 131645" src="https://github.com/user-attachments/assets/4247d32f-4ebe-4be7-b3b0-cb2451049f9e" />
+
 <img width="1912" height="1077" alt="Screenshot 2026-10-28 133738" src="https://github.com/user-attachments/assets/347711cf-47ba-42d0-9f28-5b3b6ff7e84c" />
+
 <img width="1897" height="1077" alt="Screenshot 2026-10-28 134128" src="https://github.com/user-attachments/assets/88040b38-d70b-4ccb-9fb1-b54e26b37ff4" />
+
 <img width="1902" height="1077" alt="Screenshot 2026-10-29 105125" src="https://github.com/user-attachments/assets/22fc0c38-5025-4eb4-a363-6119e735118a" />
+
 <img width="1915" height="1077" alt="Screenshot 2026-10-28 134951" src="https://github.com/user-attachments/assets/11960929-4630-462d-9ef3-f9c2721c17bd" />
+
 <img width="1917" height="1077" alt="Screenshot 2026-10-28 141530" src="https://github.com/user-attachments/assets/9021a43d-6930-4ac5-8e57-06bc42dc472e" />
+
 <img width="1916" height="1025" alt="Screenshot 2026-10-28 140829" src="https://github.com/user-attachments/assets/0cecd67a-5a67-436d-87c8-c06d43d4ba80" />
+
+<img width="4032" height="3024" alt="PXL_20261029_104953045" src="https://github.com/user-attachments/assets/54390726-a12b-4e5d-8547-3f4d846a0e54" />
 
