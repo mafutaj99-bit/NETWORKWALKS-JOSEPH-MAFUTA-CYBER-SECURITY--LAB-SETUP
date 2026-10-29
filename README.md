@@ -4,15 +4,15 @@ My personal Cyber Security lab setup featuring Kali Linux and VirtualBox configu
 
 Welcome to my personal Cyber Security Lab! This repository documents the setup, configuration, and troubleshooting of my virtual environment.
 
-## 🎯 Objective
+## Objective
 To build a safe, isolated environment for practicing penetration testing, vulnerability analysis, and network security using Kali Linux.
 
-## 🛠️ Lab Components
+## Lab Components
 *   **Host OS:** Windows 11
 *   **Virtualization Software:** Oracle VirtualBox
 *   **Attacker Machine:** Kali Linux (VirtualBox Image)
-
-## 🚧 Troubleshooting & Fixes
+  
+##Troubleshooting & Fixes
 During the initial setup, I encountered a few hurdles and successfully resolved them:
 
 ### 1. VirtualBox UUID Conflict
@@ -23,11 +23,11 @@ During the initial setup, I encountered a few hurdles and successfully resolved 
 *   **Issue:** VirtualBox could not create the machine folder due to path/permission restrictions on the selected drive.
 *   **Fix:** Changed the default machine folder path to a standard, accessible directory and manually re-attached the storage.
 
-## 🚀 Next Steps
+## Next Steps
 - [ ] Install VirtualBox Guest Additions (for better screen resolution and clipboard sharing).
 - [ ] Take a baseline snapshot of the clean Kali installation.
 - [ ] Configure a host-only network adapter for safe, isolated traffic.
 
-## 📚 Resources
+## Resources
 *   [Kali Linux Documentation](https://www.kali.org/docs/)
 *   [VirtualBox Manual](https://www.virtualbox.org/manual/)
